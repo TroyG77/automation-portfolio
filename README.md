@@ -18,7 +18,7 @@ This repository demonstrates practical skills, experimentation, and project-base
 ## 📑 Table of Contents
 
 ### ☁️ Cloud Fundamentals
-- [Week 1 – EC2 & S3 Basics](./Week-1-EC2-S3/)
+- [Week 1 – EC2 & S3 Basics](https://github.com/TroyG77/automation-portfolio/tree/main/Month1/Week1)
 - [Week 2 – IAM & Automation](./Week-2-IAM-Automation/)
 
 ### 🤖 Automation & RPA
