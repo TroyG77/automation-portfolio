@@ -15,7 +15,7 @@ This repository demonstrates practical skills, experimentation, and project-base
 
 ---
 
-📑 Table of Contents
+📑 Table of Contents  
 ☁️ Cloud Fundamentals
 
 ✅ Week 1 – EC2 & S3 Basics
@@ -30,12 +30,14 @@ This repository demonstrates practical skills, experimentation, and project-base
 
 🚀 Week 4 – AWS Automation with Python (boto3)
 
-📘 Learning Roadmap (Month 1)
-Week	Focus Area	Key Tools	Status
-1	EC2 + S3 Setup	AWS EC2, S3	✅ Completed
-2	IAM + Architecture Diagram	AWS IAM, draw.io	✅ Completed
-3	Python Scripting Fundamentals	Python, VS Code	✅ Completed
-4	AWS Automation via boto3	Python, AWS SDK	🔜 In Progress
+
+📘 Learning Roadmap (Month 1)  
+Week	Focus Area	Key Tools	Status  
+1	EC2 + S3 Setup	AWS EC2, S3	✅ Completed  
+2	IAM + Architecture Diagram	AWS IAM, draw.io	✅ Completed  
+3	Python Scripting Fundamentals	Python, VS Code	✅ Completed  
+4	AWS Automation via boto3	Python, AWS SDK	🔜 In Progress  
+
 🧭 Next Steps
 
 Start Week 4: Automate AWS tasks with Python + boto3
