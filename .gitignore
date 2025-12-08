@@ -8,8 +8,11 @@
 .terraform/
 .terraform.lock.hcl
 
+terraform.tfvars
+*.auto.tfvars
 
 *.log
 *.tmp
 .DS_Store
 .vscode/
+Thumbs.db
