@@ -1,6 +1,4 @@
 .aws/ 
-# AWS credentials & config
-.aws/
 *.pem
 *.key
 
